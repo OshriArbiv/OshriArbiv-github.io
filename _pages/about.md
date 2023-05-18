@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my GitHub page! I'm Oshri Arbiv, a junior data scientist based in [City of Residence](https://example.com), with a strong passion for applying data-driven tools in the field of FinTech. My primary focus lies in financial education and risk management, where I aim to leverage the power of data to make informed decisions.
+Welcome to my GitHub page! I'm Oshri Arbiv, a London based junior data scientist, with a strong passion for applying data-driven tools in the field of FinTech. My primary focus lies in financial education and risk management, where I aim to leverage the power of data to make informed decisions.
 
 I completed my Bachelor's degree in Statistics from the prestigious Hebrew University of Jerusalem. Recently, I successfully graduated from MasterSchool's extensive bootcamp, further enhancing my skills and knowledge in the field.
 
