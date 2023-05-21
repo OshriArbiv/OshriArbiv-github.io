@@ -9,7 +9,7 @@ profile:
   image: ProfilePic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Imagine there's a pun here</p>
+    <p>'Did I lock the house?'</p>
     <p>London, 2023</p>
     <p></p>
 
